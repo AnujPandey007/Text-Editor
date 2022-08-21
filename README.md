@@ -10,8 +10,8 @@ This mode we can enable by clicking on the switch.
 ## Screenshots
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/AnujPandey007/Text-Editor/master/screenshots/1.png" width="500"/>
-  <img src="https://raw.githubusercontent.com/AnujPandey007/Text-Editor/master/screenshots/2.png" width="500"/>
+  <img src="https://raw.githubusercontent.com/AnujPandey007/Text-Editor/master/screenshots/1.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/AnujPandey007/Text-Editor/master/screenshots/2.png" width="300"/>
 </p>
 
 ## Ways to run the project 
